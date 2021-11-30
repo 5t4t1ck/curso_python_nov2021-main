@@ -1,0 +1,4 @@
+{'id': 1, 'nobmre': 'Carlos', 'apellido': 'Pérez', 'fecha': '05/01/1989'}
+{'id': 2, 'nobmre': 'Manuel', 'apellido': 'Heredia', 'fecha': '26/12/1973'}
+{'id': 3, 'nobmre': 'Rosa', 'apellido': 'Campos', 'fecha': '12/06/1961'}
+{'id': 4, 'nobmre': 'David', 'apellido': 'García', 'fecha': '25/07/2006'}
