@@ -1,0 +1,6 @@
+lista = [1,2, "a", True, ["a","b","c"]]
+lista2 = [1,2,3,4,5]
+lista3 = [True, True, True]
+lista4 = [False, False, False]
+lista5 = [True, True, False]
+lista6 = [False, False, True]
